@@ -1,0 +1,8 @@
+25. Background Attachment 47
+10. Image in Background 31
+.wrapper{
+    background-image: url('img/lindi.jpg') no-repeat;
+    background-attachment: fixed;
+    /* background-attachment:scroll; */
+    /* background-size: 900px 600px; */
+}

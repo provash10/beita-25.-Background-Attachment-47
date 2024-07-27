@@ -1,0 +1,6 @@
+.wrapper{
+    background-image: url('img/lindi.jpg') no-repeat;
+    background-attachment: fixed;
+    /* background-attachment:scroll; */
+    /* background-size: 900px 600px; */
+}
